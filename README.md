@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/screenshot_web.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://github.com/jilibe/qr-code-component-main)
+- Live Site URL: [jilibe](https://github.com/jilibe/qr-code-component-main)
 
 ## My process
 
@@ -47,4 +47,4 @@ Also learnt to pay attention to details.
 
 ## Acknowledgments
 
-I want to thank frontend Mentors
+I want to thank frontend Mentors.
