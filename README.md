@@ -21,6 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Live Site URL: [jilibe](https://github.com/jilibe/qr-code-component-main)
+- Live Site URL: [jilibe](https://jilibe.github.io/qr-code-component-main/)
 
 ## My process
 
